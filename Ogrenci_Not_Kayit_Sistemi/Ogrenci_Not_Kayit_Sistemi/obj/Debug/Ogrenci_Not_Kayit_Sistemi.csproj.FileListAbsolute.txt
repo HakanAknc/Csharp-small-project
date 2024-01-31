@@ -1,0 +1,10 @@
+C:\Users\Hakan Akıncı\C#_FormTutorial\Ogrenci_Not_Kayit_Sistemi\Ogrenci_Not_Kayit_Sistemi\bin\Debug\Ogrenci_Not_Kayit_Sistemi.exe.config
+C:\Users\Hakan Akıncı\C#_FormTutorial\Ogrenci_Not_Kayit_Sistemi\Ogrenci_Not_Kayit_Sistemi\bin\Debug\Ogrenci_Not_Kayit_Sistemi.exe
+C:\Users\Hakan Akıncı\C#_FormTutorial\Ogrenci_Not_Kayit_Sistemi\Ogrenci_Not_Kayit_Sistemi\bin\Debug\Ogrenci_Not_Kayit_Sistemi.pdb
+C:\Users\Hakan Akıncı\C#_FormTutorial\Ogrenci_Not_Kayit_Sistemi\Ogrenci_Not_Kayit_Sistemi\obj\Debug\Ogrenci_Not_Kayit_Sistemi.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_FormTutorial\Ogrenci_Not_Kayit_Sistemi\Ogrenci_Not_Kayit_Sistemi\obj\Debug\Ogrenci_Not_Kayit_Sistemi.Form1.resources
+C:\Users\Hakan Akıncı\C#_FormTutorial\Ogrenci_Not_Kayit_Sistemi\Ogrenci_Not_Kayit_Sistemi\obj\Debug\Ogrenci_Not_Kayit_Sistemi.Properties.Resources.resources
+C:\Users\Hakan Akıncı\C#_FormTutorial\Ogrenci_Not_Kayit_Sistemi\Ogrenci_Not_Kayit_Sistemi\obj\Debug\Ogrenci_Not_Kayit_Sistemi.csproj.GenerateResource.cache
+C:\Users\Hakan Akıncı\C#_FormTutorial\Ogrenci_Not_Kayit_Sistemi\Ogrenci_Not_Kayit_Sistemi\obj\Debug\Ogrenci_Not_Kayit_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_FormTutorial\Ogrenci_Not_Kayit_Sistemi\Ogrenci_Not_Kayit_Sistemi\obj\Debug\Ogrenci_Not_Kayit_Sistemi.exe
+C:\Users\Hakan Akıncı\C#_FormTutorial\Ogrenci_Not_Kayit_Sistemi\Ogrenci_Not_Kayit_Sistemi\obj\Debug\Ogrenci_Not_Kayit_Sistemi.pdb

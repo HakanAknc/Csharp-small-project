@@ -1,0 +1,12 @@
+C:\Users\Hakan Akıncı\C#_FormTutorial\Login_Form_Tasrimi\Login_Form_Tasrimi\bin\Debug\Login_Form_Tasrimi.exe.config
+C:\Users\Hakan Akıncı\C#_FormTutorial\Login_Form_Tasrimi\Login_Form_Tasrimi\bin\Debug\Login_Form_Tasrimi.exe
+C:\Users\Hakan Akıncı\C#_FormTutorial\Login_Form_Tasrimi\Login_Form_Tasrimi\bin\Debug\Login_Form_Tasrimi.pdb
+C:\Users\Hakan Akıncı\C#_FormTutorial\Login_Form_Tasrimi\Login_Form_Tasrimi\obj\Debug\Login_Form_Tasrimi.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_FormTutorial\Login_Form_Tasrimi\Login_Form_Tasrimi\obj\Debug\Login_Form_Tasrimi.Form1.resources
+C:\Users\Hakan Akıncı\C#_FormTutorial\Login_Form_Tasrimi\Login_Form_Tasrimi\obj\Debug\Login_Form_Tasrimi.Properties.Resources.resources
+C:\Users\Hakan Akıncı\C#_FormTutorial\Login_Form_Tasrimi\Login_Form_Tasrimi\obj\Debug\Login_Form_Tasrimi.csproj.GenerateResource.cache
+C:\Users\Hakan Akıncı\C#_FormTutorial\Login_Form_Tasrimi\Login_Form_Tasrimi\obj\Debug\Login_Form_Tasrimi.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_FormTutorial\Login_Form_Tasrimi\Login_Form_Tasrimi\obj\Debug\Login_Form_Tasrimi.exe
+C:\Users\Hakan Akıncı\C#_FormTutorial\Login_Form_Tasrimi\Login_Form_Tasrimi\obj\Debug\Login_Form_Tasrimi.pdb
+C:\Users\Hakan Akıncı\C#_FormTutorial\Login_Form_Tasrimi\Login_Form_Tasrimi\obj\Debug\Login_Form_Tasrimi.Form2.resources
+C:\Users\Hakan Akıncı\C#_FormTutorial\Login_Form_Tasrimi\Login_Form_Tasrimi\obj\Debug\Login_Form_Tasrimi.Form3.resources
