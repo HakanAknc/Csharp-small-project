@@ -7,11 +7,11 @@ Bu projede, C# programlama dili kullanılarak hem konsol uygulaması hem de Wind
 
 # Konsol Uygulaması:
 
-Konsol uygulaması, Program.cs dosyasında bulunmaktadır.
-Kullanıcıdan öğrenci adı, numarası, dersi ve üç sınav notu alınır.
-Ortalama hesaplanır ve başarı durumu belirlenir.
-Sonuçlar konsola yazdırılır.
-Windows Forms Tasarımı:
+- Konsol uygulaması, Program.cs dosyasında bulunmaktadır.
+- Kullanıcıdan öğrenci adı, numarası, dersi ve üç sınav notu alınır.
+- Ortalama hesaplanır ve başarı durumu belirlenir.
+- Sonuçlar konsola yazdırılır.
+- Windows Forms Tasarımı:
 
 - Windows Forms tasarımı, Form1.cs dosyasında bulunmaktadır.
 - Kullanıcı arayüzü, öğrenci bilgilerini girmek için metin kutuları, combo box ve maskeli metin kutusu içerir.
@@ -26,14 +26,14 @@ This project features both a console application and a Windows Forms design impl
 
 # Console Application:
 
-The console application is located in the Program.cs file.
-It prompts the user for student name, ID, course, and three exam grades.
-It calculates the average and determines the success status.
-The results are printed to the console.
-Windows Forms Design:
+- The console application is located in the Program.cs file.
+- It prompts the user for student name, ID, course, and three exam grades.
+- It calculates the average and determines the success status.
+- The results are printed to the console.
+- Windows Forms Design:
 
-The Windows Forms design is found in the Form1.cs file.
-The user interface includes text boxes, combo boxes, and a masked text box for entering student information.
-Clicking the "Calculate" button calculates averages and determines success statuses.
-Clicking the "Save" button adds information to a list box.
-Other buttons are used to demonstrate various loop structures.
+- The Windows Forms design is found in the Form1.cs file.
+- The user interface includes text boxes, combo boxes, and a masked text box for entering student information.
+- Clicking the "Calculate" button calculates averages and determines success statuses.
+- Clicking the "Save" button adds information to a list box.
+- Other buttons are used to demonstrate various loop structures.
