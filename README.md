@@ -11,7 +11,8 @@ Bu projede, C# programlama dili kullanılarak hem konsol uygulaması hem de Wind
 - Kullanıcıdan öğrenci adı, numarası, dersi ve üç sınav notu alınır.
 - Ortalama hesaplanır ve başarı durumu belirlenir.
 - Sonuçlar konsola yazdırılır.
-- Windows Forms Tasarımı:
+
+- # - Windows Forms Tasarımı:
 
 - Windows Forms tasarımı, Form1.cs dosyasında bulunmaktadır.
 - Kullanıcı arayüzü, öğrenci bilgilerini girmek için metin kutuları, combo box ve maskeli metin kutusu içerir.
