@@ -13,11 +13,11 @@ Ortalama hesaplanır ve başarı durumu belirlenir.
 Sonuçlar konsola yazdırılır.
 Windows Forms Tasarımı:
 
-Windows Forms tasarımı, Form1.cs dosyasında bulunmaktadır.
-Kullanıcı arayüzü, öğrenci bilgilerini girmek için metin kutuları, combo box ve maskeli metin kutusu içerir.
-"Hesapla" düğmesine tıklanarak ortalamalar hesaplanır ve başarı durumları belirlenir.
-"Kaydet" düğmesine tıklanarak bilgiler bir liste kutusuna eklenir.
-Diğer düğmeler, çeşitli döngü yapılarını göstermek için kullanılır.
+- Windows Forms tasarımı, Form1.cs dosyasında bulunmaktadır.
+- Kullanıcı arayüzü, öğrenci bilgilerini girmek için metin kutuları, combo box ve maskeli metin kutusu içerir.
+- "Hesapla" düğmesine tıklanarak ortalamalar hesaplanır ve başarı durumları belirlenir.
+- "Kaydet" düğmesine tıklanarak bilgiler bir liste kutusuna eklenir.
+- Diğer düğmeler, çeşitli döngü yapılarını göstermek için kullanılır.
 
 # ==> Project Description:
 This project contains a simple student grade recording system in C# programming language. It is a Windows Forms application where users input student name, ID, course, and three exam grades. Then, using this information, the student's average is calculated and whether they passed or failed is determined. Clicking the save button adds this information to a list. Additionally, buttons are provided to demonstrate various loop structures to the user.
