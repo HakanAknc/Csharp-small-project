@@ -31,7 +31,7 @@ This project features both a console application and a Windows Forms design impl
 - It prompts the user for student name, ID, course, and three exam grades.
 - It calculates the average and determines the success status.
 - The results are printed to the console.
-- Windows Forms Design:
+- Windows Forms Design:)
 
 - The Windows Forms design is found in the Form1.cs file.
 - The user interface includes text boxes, combo boxes, and a masked text box for entering student information.
